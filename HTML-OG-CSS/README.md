@@ -20,3 +20,4 @@ Bildet er tatt av <a href="https://pixabay.com/no/users/derweg-7520060/?utm_sour
 
 Skjell
 Bildet er tatt av <a href="https://pixabay.com/no/users/mylene2401-10328767/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8080937">Myléne</a> fra <a href="https://pixabay.com/no//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8080937">Pixabay</a>
+
